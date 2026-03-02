@@ -4,8 +4,13 @@ Warm dark and light themes for VS Code with copper and verdigris accents.
 
 ## Variants
 
-- **Copper Elegance** - Dark theme with neutral backgrounds and warm copper-tinted syntax
-- **Copper Luminance** - Light theme with warm parchment backgrounds and saturated syntax
+### Copper Elegance (Dark)
+
+![Copper Elegance dark theme](images/elegance.png)
+
+### Copper Luminance (Light)
+
+![Copper Luminance light theme](images/luminance.png)
 
 ## Install
 
