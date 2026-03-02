@@ -1,0 +1,26 @@
+{
+    "name": "copper-elegance",
+    "displayName": "Copper Elegance",
+    "description": "Warm dark and light themes with copper and verdigris accents",
+    "version": "0.1.0",
+    "publisher": "techgeek1",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": ["Themes"],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Copper Elegance",
+                "uiTheme": "vs-dark",
+                "path": "./themes/copper-elegance-color-theme.json"
+            },
+            {
+                "label": "Copper Luminance",
+                "uiTheme": "vs",
+                "path": "./themes/copper-luminance-color-theme.json"
+            }
+        ]
+    }
+}
